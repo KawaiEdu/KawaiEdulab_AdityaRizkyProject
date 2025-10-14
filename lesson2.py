@@ -1,0 +1,10 @@
+nama = input("siapa nama kamu? ")
+umur = int(input("berapa umur kamu? "))
+tinggi = float(input("berapa tinggi kamu? "))
+udah_nikah = input("udah nikah belum ")
+
+print("data")
+print("nama  " + nama + " ")
+print("umur  " , umur , " ")
+print("tinggi  " , tinggi , " ")
+print("status nikah : " + udah_nikah + " ")
