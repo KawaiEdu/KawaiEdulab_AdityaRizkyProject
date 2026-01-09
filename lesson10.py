@@ -18,7 +18,7 @@ elif pilihan == "kurang" :
     print(kurang(x,y))
 
 elif pilihan == "bagi" :
-    print(bagi(x,y)) 
+    print(bagi(x,y))
 
 else :
     print("pilihan tidak ada di daftar")
